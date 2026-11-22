@@ -1,6 +1,8 @@
 # The World Today — Sunday, 22 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Rudhay863/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Rudhay863/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A program that draws one 1024x1024 image summing up the world news of Sunday 22 November 2026 — a newspaper front page led by Iran's strikes on US bases in Bahrain, with the EU–Indonesia trade deal, the deadlocked COP31 climate talks, the Russian strike on Lviv, Mexico's capture of "El Chapo Isidro", and more from the day.
